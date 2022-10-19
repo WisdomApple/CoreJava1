@@ -480,3 +480,27 @@
 > robot/
 >
 > > 12-26 [RobotTest.java](chapter12/src/robot/RobotTest.java)
+
+---
+
+## **第 13 章 部 署 Java 应用程序**
+
+> resource/
+>
+> > 13-01 [ResourceTest.java](chapter13/src/resource/ResourceTest.java)
+
+> properties/
+>
+> > 13-02 [PropertiesTest.java](chapter13/src/properties/PropertiesTest.java)
+
+> preferences/
+>
+> > 13-03 [PreferencesTest.java](chapter13/src/preferences/PreferencesTest.java)
+
+> applet/
+>
+> > 13-04 [NotHelloWorld.java](chapter13/src/applet/NotHelloWorld.java)
+
+> chart/
+>
+> > 13-05 [Chart.java](chapter13/src/chart/Chart.java)
