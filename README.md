@@ -90,3 +90,51 @@
 > com/
 >
 > > 04-07 [Employee.java](chapter04/src/com/Employee.java)
+
+---
+
+## **第 5 章 继承**
+
+> inheritance/
+>
+> > 05-01 [ManagerTest.java](chapter05/src/inheritance/Manager.java)
+> > 05-02 [Employee.java](chapter05/src/inheritance/Employee.java)
+> > 05-03 [ManagerTest.java](chapter05/src/inheritance/ManagerTest.java)
+
+> abstractClasses/
+>
+> > 05-04 [PersonTest.java](chapter05/src/abstractClasses/PersonTest.java)
+> > 05-05 [Person.java](chapter05/src/abstractClasses/Person.java)
+> > 05-06 [Employee.java](chapter05/src/abstractClasses/Employee.java)
+> > 05-07 [Student.java](chapter05/src/abstractClasses/Student.java)
+
+> equals/
+>
+> > 05-08 [EqualsTest.java](chapter05/src/equals/EqualsTest.java)
+> > 05-09 [Employee.java](chapter05/src/equals/Employee.java)
+> > 05-10 [Manager.java](chapter05/src/equals/Manager.java)
+
+> arrayList/
+>
+> > 05-11 [ArrayListTest.java](chapter05/src/arrayList/ArrayListTest.java)
+
+> enums/
+>
+> > 05-12 [EnumTest.java](chapter05/src/enums/EnumTest.java)
+
+> reflection/
+>
+> 05-13 [ReflectionTest.java](chapter05/src/reflection/ReflectionTest.java)
+
+> objectAnalyzer/
+>
+> > 05-14 [ObjectAnalyzerTest.java](chapter05/src/objectAnalyzer/ObjectAnalyzerTest.java)
+> > 05-15 [ObjectAnalyzer.java](chapter05/src/objectAnalyzer/ObjectAnalyzer.java)
+
+> arrays/
+>
+> > 05-16 [CopyOfTest.java](chapter05/src/arrays/CopyOfTest.java)
+
+> methods/
+>
+> > 05-17 [MethodTableTest.java](chapter05/src/methods/MethodTableTest.java)
