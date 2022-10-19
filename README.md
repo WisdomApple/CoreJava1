@@ -267,3 +267,53 @@
 > longging/
 >
 > > 07-02 [LoggingImageViewer.java](chapter07/src/logging/LoggingImageViewer.java)
+
+---
+
+## **第 8 章 泛型程序设计**
+
+> pair1/
+>
+> > [Pair.java](chapter08/src/pair1/Pair.java)
+> > 08-01 [PairTest1.java](chapter08/src/pair1/PairTest1.java)
+
+> pair2/
+>
+> > [Pair.java](chapter08/src/pair2/Pair.java)
+> > 08-02 [PairTest2.java](chapter08/src/pair2/PairTest2.java)
+
+> pair3/
+>
+> > [Employee.java](chapter08/src/pair3/Employee.java)
+> > [Manager.java](chapter08/src/pair3/Manager.java)
+> > [Pair.java](chapter08/src/pair3/Pair.java)
+> > 08-03 [PairTest3.java](chapter08/src/pair3/PairTest3.java)
+
+> genericReflection/
+>
+> > 08-04 [GenericReflectionTest.java](chapter08/src/genericReflection/GenericReflectionTest.java)
+
+---
+
+## **第 8 章 泛型程序设计**
+
+> pair1/
+>
+> > [Pair.java](chapter08/src/pair1/Pair.java)
+> > 08-01 [PairTest1.java](chapter08/src/pair1/PairTest1.java)
+
+> pair2/
+>
+> > [Pair.java](chapter08/src/pair2/Pair.java)
+> > 08-02 [PairTest2.java](chapter08/src/pair2/PairTest2.java)
+
+> pair3/
+>
+> > [Employee.java](chapter08/src/pair3/Employee.java)
+> > [Manager.java](chapter08/src/pair3/Manager.java)
+> > [Pair.java](chapter08/src/pair3/Pair.java)
+> > 08-03 [PairTest3.java](chapter08/src/pair3/PairTest3.java)
+
+> genericReflection/
+>
+> > 08-04 [GenericReflectionTest.java](chapter08/src/genericReflection/GenericReflectionTest.java)
