@@ -255,3 +255,15 @@
 > proxy/
 >
 > > 06-10 [ProxyTest.java](chapter06/src/proxy/ProxyTest.java)
+
+---
+
+## **第 7 章 异常、断言和日志**
+
+> stackTrace/
+>
+> > 07-01 [StackTrace.java](chapter07/src/stackTrace/StackTraceTest.java)
+
+> longging/
+>
+> > 07-02 [LoggingImageViewer.java](chapter07/src/logging/LoggingImageViewer.java)
